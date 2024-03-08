@@ -87,7 +87,7 @@
 
 <br>
 
-<div align="left">
+<div align="left" style="display:flex;flex-direction:row">
     <a href="https://www.linkedin.com/in/trehanpraharsh/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
