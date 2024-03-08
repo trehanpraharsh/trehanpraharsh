@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! </h2>
 ###
+
 <p>My name is Praharsh Trehan and I'm a Full-Stack Developer, from Gujarat, India.</p>
+
+###
 
 ###
 
