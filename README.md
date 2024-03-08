@@ -1,4 +1,13 @@
-<h2 align="left">Hi 👋! My name is Praharsh Trehan and I'm a Full-Stack Developer, from Gujarat, India.</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Praharsh Trehan and I am a Full-Stack Developer. Your friendly Neighbourhood Coder 😉.</p>
+<p align="left">Copy-and-Paste was programmed by programmers for programmers actually.</p>
+
+###
+
+<h2>👨‍💻 My Stats</h2>
 
 ###
 
@@ -11,7 +20,7 @@
 ###
 
 <!-- <img align="right" height="150" width="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<img align="right" height="150" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJwazY3ZjUzemRlYjAycTY0bmMyZjVlbnI1eWw0aTI0bjFlZDg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+<img align="right" height="170" width="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJwazY3ZjUzemRlYjAycTY0bmMyZjVlbnI1eWw0aTI0bjFlZDg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
 
