@@ -87,7 +87,7 @@
 
 <br>
 
-<p>📇 Contact Me:</p>
+<p><b>📇 Contact Me:</b></p>
 
 <div align="left">
     <a href="https://www.linkedin.com/in/trehanpraharsh/">
