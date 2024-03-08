@@ -91,11 +91,9 @@
     <a href="https://www.linkedin.com/in/trehanpraharsh/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <p>  </p>
     <a href="mailto:trehanpraharsh@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
-    <p>  </p>
     <a href="https://twitter.com/trehanpraharsh">
       <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
