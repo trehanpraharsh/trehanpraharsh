@@ -7,7 +7,7 @@
 
 ###
 
-<h2>👨‍💻 My Stats</h2>
+<h1>📊 My Stats</h1>
 
 ###
 
@@ -16,6 +16,8 @@
   <img src="https://streak-stats.demolab.com?user=trehanpraharsh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trehanpraharsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<br>
 
 ###
 
@@ -54,6 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 ### -->
+
+<h2 align="left">👨‍💻 I code with </h2>
+
+###
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,github,cpp,c" />
