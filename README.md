@@ -90,6 +90,12 @@
 
 ###
 
+<h1>🐍 Commit History:</h1>
+
+<img src="https://raw.githubusercontent.com/trehanpraharsh/trehanpraharsh/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h1>📉 My Stats:</h1>
 
 ###
@@ -109,11 +115,5 @@
   <img src="https://streak-stats.demolab.com?user=trehanpraharsh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-
-###
-
-<h1>🐍 Commit History:</h1>
-
-<img src="https://raw.githubusercontent.com/trehanpraharsh/trehanpraharsh/output/snake.svg" alt="Snake animation" />
 
 ###
