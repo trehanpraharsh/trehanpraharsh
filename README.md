@@ -1,24 +1,21 @@
-<h2 align="left">Hi 👋!</h2>
-
-<p>My name is Praharsh Trehan and I'm a Full-Stack Developer, from Gujarat, India.</p>
-
-<br>
+<h2 align="left">Hi 👋! My name is Praharsh Trehan and I'm a Full-Stack Developer, from Gujarat, India.</h2>
 
 ###
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=trehanpraharsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=trehanpraharsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=trehanpraharsh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trehanpraharsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" width="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" width="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<img align="right" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJwazY3ZjUzemRlYjAycTY0bmMyZjVlbnI1eWw0aTI0bjFlZDg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -47,8 +44,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
+### -->
 
-###
+<div align="left">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+</div>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
