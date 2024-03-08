@@ -76,7 +76,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,github,cpp,c,python" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,github,cpp,c,python&perline=9" />
 </div>
 
 <!-- <div align="left">
@@ -85,17 +85,17 @@
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
 </div> -->
 
-<h2 align="left">Contact me at</h2>
-
 <br>
 
 <div align="left">
     <a href="https://www.linkedin.com/in/trehanpraharsh/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
+    <p>  </p>
     <a href="mailto:trehanpraharsh@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
+    <p>  </p>
     <a href="https://twitter.com/trehanpraharsh">
       <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
