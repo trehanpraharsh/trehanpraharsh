@@ -7,7 +7,7 @@
 
 ###
 
-<h1>👨‍💻 My Stats:</h1>
+<h1>📉 My Stats:</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 I code with </h2>
+<h1 align="left">👨‍💻 Tools and Technologies:</h1>
 
 <!-- <img align="right" height="150" width="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <img align="right" height="200" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJwazY3ZjUzemRlYjAycTY0bmMyZjVlbnI1eWw0aTI0bjFlZDg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
@@ -74,8 +74,6 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,github,cpp,c,python&perline=9" />
 </div>
-
-<br>
 
 <p align="center"><b>📇 Contact Me:</b></p>
 
