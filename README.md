@@ -7,7 +7,7 @@
 
 ###
 
-<h1>📊 My Stats</h1>
+<h1>👨‍💻 My Stats</h1>
 
 ###
 
@@ -57,7 +57,7 @@
 </div>
 ### -->
 
-<h2 align="left">👨‍💻 I code with </h2>
+<!-- <h2 align="left">👨‍💻 I code with </h2> -->
 
 ###
 
