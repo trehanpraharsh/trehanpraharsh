@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">My name is Praharsh Trehan and I am a Full-Stack Developer. Your friendly Neighbourhood Coder 😉.</p>
-<p align="left">Copy-and-Paste was programmed by programmers for programmers actually.</p>
+<p align="left">My name is Praharsh Trehan and I am a Full-Stack Developer 👨‍💻. Your friendly Neighbourhood Coder 😉.</p>
+<p align="left">Copy-and-Paste was programmed by programmers for programmers actually. 🧠</p>
 
 ###
 
-<h1>👨‍💻 My Stats</h1>
+<h1>👨‍💻 My Stats -</h1>
 
 ###
 
@@ -16,6 +16,11 @@
   <img src="https://streak-stats.demolab.com?user=trehanpraharsh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trehanpraharsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=trehanpraharsh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 
 <br>
 
