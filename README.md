@@ -47,7 +47,7 @@
 ### -->
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,react,node,express,mongodb,html,css,github,c++,c" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,github,cplusplus,c" />
 </div>
 
 <div align="left">
