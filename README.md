@@ -87,7 +87,9 @@
 
 <br>
 
-<div align="left" style="display:flex;flex-direction:row;padding:1vw">
+<p>📇 Contact Me:</p>
+
+<div align="left">
     <a href="https://www.linkedin.com/in/trehanpraharsh/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
