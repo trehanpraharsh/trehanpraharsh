@@ -11,7 +11,7 @@
 ###
 
 <!-- <img align="right" height="150" width="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<img align="right" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJwazY3ZjUzemRlYjAycTY0bmMyZjVlbnI1eWw0aTI0bjFlZDg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+<img align="right" height="150" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJwazY3ZjUzemRlYjAycTY0bmMyZjVlbnI1eWw0aTI0bjFlZDg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
 
@@ -47,7 +47,7 @@
 ### -->
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,github,cplusplus,c" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,github,cpp,c" />
 </div>
 
 <div align="left">
